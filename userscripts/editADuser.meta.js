@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Edit AD user .PS
 // @namespace    https://sqaaq.github.io/automations
-// @version      1.9.3
+// @version      1.9.4
 // @description  Кнопка появляется только при наличии "Выход нового сотрудника" в заголовке
 // @author       Egor & AI
 // @match        https://*/front/ticket.form.php?*
