@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Category Automation
 // @namespace    https://github.com/sqaaq/automations/
-// @version      1.3.1
+// @version      1.3.2
 // @description  Автоматическое изменение категории и перенос заявки / iOS/Android/Mac/Win
 // @match        https://*/front/ticket.form.php*
 // @grant        none
