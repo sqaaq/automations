@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Edit AD user .PS
 // @namespace    https://sqaaq.github.io/automations
-// @version      1.9.5
-// @description  Кнопка появляется только при наличии "Выход нового сотрудника" в заголовке
+// @version      1.10
+// @description  Кнопка появляется только при наличии "Выход нового сотрудника" в заголовке + FullAutoAnswer + Passw gen
 // @author       Egor & AI
 // @match        https://*/front/ticket.form.php?*
 // @downloadURL  https://sqaaq.github.com/automations/userscripts/editADuser.user.js
